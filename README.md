@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning Java<br>I am studying in SJB institute of technology ,Bangalore <br>
+
 
 
 ## 🌐 Socials:
